@@ -5,9 +5,8 @@
 ## Install
 
 ```bash
-npm i org-tree-helper
-# or
-yarn add org-tree-helper
+npm i
+npm start
 ```
 
 ## Examples
