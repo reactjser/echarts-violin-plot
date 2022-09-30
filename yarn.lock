@@ -3068,10 +3068,15 @@ cyclist@^1.0.1:
   resolved "https://registry.npm.taobao.org/d3-array/download/d3-array-2.4.0.tgz#87f8b9ad11088769c82b5ea846bcb1cc9393f242"
   integrity sha1-h/i5rREIh2nIK16oRryxzJOT8kI=
 
-d3-color@1, d3-color@^1.4.0:
+d3-color@1:
   version "1.4.0"
   resolved "https://registry.npm.taobao.org/d3-color/download/d3-color-1.4.0.tgz#89c45a995ed773b13314f06460df26d60ba0ecaf"
   integrity sha1-icRamV7Xc7EzFPBkYN8m1gug7K8=
+
+d3-color@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/d3-color/-/d3-color-3.1.0.tgz#395b2833dfac71507f12ac2f7af23bf819de24e2"
+  integrity sha512-zg/chbXyeBtMQ1LbD/WSoW2DpC3I0mpmPdW+ynRTj/x2DAWYrIY7qeZIHidozwV24m4iavr15lNwIwLxRmOxhA==
 
 d3-format@1:
   version "1.4.1"
